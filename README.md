@@ -41,3 +41,4 @@ import _ from 'lodash';
 #INSTALL PROPTYPES (declare the props as number, string, bool, array, object, symbol, func)
 npm i  prop-types@15.6.2
 import PropTypes from 'prop-types';
+
