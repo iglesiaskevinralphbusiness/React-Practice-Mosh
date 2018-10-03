@@ -17,9 +17,11 @@ add this -> "editor.formatOnSave": true,
 menu -> preferences -> color theme -> ayu mirage
 
 
+
 #CREATE REACT PACKAGE
 install nodejs --> npm install -g create-react-app
 create react project --> create-react-app my-app
+
 
 
 #INSTALL BOOTSTRAP
