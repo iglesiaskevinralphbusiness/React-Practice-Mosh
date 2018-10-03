@@ -3,44 +3,44 @@ Tutorial with mosh
 
 =========================================================
 
-#SETTING UP DEVELOPMENT
-npm i -g create-react-app@1.5.2
+#SETTING UP DEVELOPMENT<br />
+npm i -g create-react-app@1.5.2<br />
 
-install visual studio code -> https://code.visualstudio.com
-install extension  -> simple react snippets
-                   -> prettier - code formatter
+install visual studio code -> https://code.visualstudio.com<br />
+install extension  -> simple react snippets<br />
+                   -> prettier - code formatter<br />
 
-menu -> preferences -> settings
-user settings 
-add this -> "editor.formatOnSave": true,
+menu -> preferences -> settings<br />
+user settings <br />
+add this -> "editor.formatOnSave": true,<br />
 
-menu -> preferences -> color theme -> ayu mirage
-
-
-
-#CREATE REACT PACKAGE
-install nodejs --> npm install -g create-react-app
-create react project --> create-react-app my-app
+menu -> preferences -> color theme -> ayu mirage<br />
 
 
 
-#INSTALL BOOTSTRAP
-npm i bootstrap
-import "bootstrap/dist/css/bootstrap.css";
-
-#INSTALL FONT AWESOME
-npm i font-awesome@4.7.0
-import "font-awesome/css/font-awesome.css";
-
-FILTERING STATE
-.filter(m => m._id !== your-value-here)
+#CREATE REACT PACKAGE<br />
+install nodejs --> npm install -g create-react-app<br />
+create react project --> create-react-app my-app<br />
 
 
-#INSTALL LODDASH (optimize javascript library called underscore) ex. .range .slice .take .orderBy, .get
-npm i lodash@4.17.10
-import _ from 'lodash';
 
-#INSTALL PROPTYPES (declare the props as number, string, bool, array, object, symbol, func)
-npm i  prop-types@15.6.2
-import PropTypes from 'prop-types';
+#INSTALL BOOTSTRAP<br />
+npm i bootstrap<br />
+import "bootstrap/dist/css/bootstrap.css";<br />
+
+#INSTALL FONT AWESOME<br />
+npm i font-awesome@4.7.0<br />
+import "font-awesome/css/font-awesome.css";<br />
+
+FILTERING STATE<br />
+.filter(m => m._id !== your-value-here)<br />
+
+
+#INSTALL LODDASH (optimize javascript library called underscore) ex. .range .slice .take .orderBy, .get<br />
+npm i lodash@4.17.10<br />
+import _ from 'lodash';<br />
+
+#INSTALL PROPTYPES (declare the props as number, string, bool, array, object, symbol, func)<br />
+npm i  prop-types@15.6.2<br />
+import PropTypes from 'prop-types';<br />
 
