@@ -9,6 +9,7 @@ npm i -g create-react-app@1.5.2<br />
 install visual studio code -> https://code.visualstudio.com<br />
 install extension  -> simple react snippets<br />
                    -> prettier - code formatter<br />
+                   -> Auto Import -ES6, TS, JSX<br />
 
 menu -> preferences -> settings<br />
 user settings <br />
