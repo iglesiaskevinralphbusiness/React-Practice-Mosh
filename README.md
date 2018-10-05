@@ -45,3 +45,7 @@ import _ from 'lodash';<br />
 npm i  prop-types@15.6.2<br />
 import PropTypes from 'prop-types';<br />
 
+<strong>#INSTALL REACT ROUTER DOM</strong><br />
+npm i react-router-dom@4.3.1<br />
+import { BrowserRouter } from "react-router-dom";<br />
+
