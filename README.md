@@ -52,3 +52,8 @@ import { BrowserRouter } from "react-router-dom";<br />
 <strong>#INSTALL QUERY STRING</strong> (extract parameters for props.location.search)<br />
 npm i query-string@6.1.0<br />
 import queryString from 'query-string';<br />
+
+<strong>#INSTALL JOI</strong><br />
+npm i joi-browser@13.4<br />
+import Joi from 'joi-browser';
+
