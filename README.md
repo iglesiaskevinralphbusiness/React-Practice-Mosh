@@ -24,6 +24,9 @@ install nodejs --> npm install -g create-react-app<br />
 create react project --> create-react-app my-app<br />
 
 
+<strong>#TO RUN PROJECT</strong><br />
+npm start
+
 
 <strong>#INSTALL BOOTSTRAP</strong><br />
 npm i bootstrap<br />
